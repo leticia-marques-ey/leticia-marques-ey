@@ -2,9 +2,9 @@
 
 👷🏽‍♀️ Formada em engenharia civil
 
-👩🏽‍💻 Atualmente Trainee DDA/SW 
+👩🏽‍💻 Atualmente Consultora DDA/SW 
 
-🤩 Aprendendo linguagens Front-end e Mobile 
+🤩 Aprendendo linguagens Front e Back -end 
 
  <div>
   <a href="https://github.com/leticia-marques-ey">
